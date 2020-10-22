@@ -1,0 +1,15 @@
+.container{
+    padding: 80px;
+}
+.pos{
+    margin-top: 30px;
+}
+table, td{
+    text-align: center;
+    border: 1px solid #ddd;
+    width: 500px;
+}
+thead{
+    color: white;
+    background-color: black;
+}
